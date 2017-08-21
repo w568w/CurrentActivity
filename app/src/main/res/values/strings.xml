@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrentActivity</string>
+    <string name="service_des">显示当前Activity</string>
+</resources>
